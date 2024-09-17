@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darek</h1>
 <h3 align="center">A React Frontend Developer from Poland</h3>
 
-- 🌱 I’m currently learning **React, Jest, Storybook**
+- 🌱 I’m currently learning **React, Jest, Storybook, Node.js**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DarekMazur?tab=repositories) or [portfolio](https://nerdistry.pl)
 
