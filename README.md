@@ -1,5 +1,5 @@
 # Hi 👋, I'm Darek
-### A React Frontend Developer from Poland
+### I am a JavaScript developer with experience in commercial and private projects. I am currently expanding my knowledge on React, Jest and Storybook
 
 - 🌱 I’m currently learning **React, Jest, Storybook, Node.js, React Native**
 
