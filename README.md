@@ -1,12 +1,23 @@
 # Hi 👋, I'm Darek
-### I am a JavaScript developer with experience in commercial and private projects. I am currently expanding my knowledge on React, Jest and Storybook
+### React Developer | JavaScript & TypeScript Enthusiast | Open for Opportunities
 
-- 🌱 I’m currently learning **React, Jest, Storybook, Node.js, React Native**
+Passionate frontend engineer delivering commercial and open-source projects. Specializes in building modern, maintainable web applications using React.js and TypeScript, with a strong focus on code quality, testing, and CI/CD best practices.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DarekMazur?tab=repositories) or [portfolio](https://nerdistry.pl)
+### 🔭 Currently Working On
+- **React**, 
+- **Jest**, 
+- **Storybook**, 
+- **Node.js**,
+- **React Native**
 
-- 📫 **dev@darekmazur.it**
+### 💼 Key Technologies & Tools
+JavaScript · TypeScript · React.js · Jest · Vitest · Docker · Git · Figma · Adobe XD · Storybook · REST
 
+### 👨‍💻 All of my projects are available at [GitHub](https://github.com/DarekMazur?tab=repositories) or [portfolio](https://nerdistry.pl)
+
+### 📫 **dev@darekmazur.it**
+
+*Always open to new challenges and collaborations in React/TypeScript development!*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dariuszmazur-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nerdistry_dev) 
