@@ -31,3 +31,5 @@ JavaScript · TypeScript · React.js · Jest · Vitest · Docker · Git · Figma
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DarekMazur&icon=2&color=8)](https://visitcount.itsvg.in)
+  
+![img](https://res.cloudinary.com/ddyqnp7pp/image/upload/c_fill,w_200,h_200,ar_1:1/v1752113507/badge_ttsnpt.png)
